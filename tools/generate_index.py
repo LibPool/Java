@@ -22,6 +22,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import zipfile
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -419,7 +420,7 @@ def crawl_maven_unique_artifacts(max_artifacts: int) -> list[dict]:
     seen: dict[tuple[str, str], dict] = {}
     for kw in CRAWL_KEYWORDS:
         q = urllib.parse.quote(kw)
-        for start in range(0, 1000, 100):
+        for start in range(0, 10001, 100):
             url = f"{MAVEN_SEARCH}?q={q}&rows=100&start={start}&wt=json&core=gav"
             try:
                 data = http_json(url)
@@ -440,6 +441,8 @@ def crawl_maven_unique_artifacts(max_artifacts: int) -> list[dict]:
                             "latest": d.get("latestVersion", ""),
                             "description": "",
                         }
+            print(f"  kw={kw} start={start} unique={len(seen)}", flush=True)
+            time.sleep(0.08)
             if len(seen) >= max_artifacts:
                 return list(seen.values())
     return list(seen.values())
@@ -482,7 +485,7 @@ def write_java_readme(root: Path, counts: dict[str, int], libs: list[Library]) -
         "- 包路径：`groupId` 中的 `.` 转成目录分隔符，例如 `org.springframework:spring-context` 位于 `org/springframework/spring-context.md`",
         "- 库若兼容多个 Java 大版本，会同时出现在所有后续版本目录中",
         "",
-        f"当前共收录 {len(libs)} 个 Maven 坐标：",
+        f"当前共收录 {len(libs)} 个 Maven 坐标（来源为 Maven Central 搜索翻页与人工种子）：",
         "",
     ]
     lines += [f"- {k}：{v} 个库" for k, v in counts.items()]
@@ -497,7 +500,7 @@ def write_java_readme(root: Path, counts: dict[str, int], libs: list[Library]) -
         "## 生成方式",
         "",
         "```bash",
-        "python tools/generate_index.py",
+        "python tools/generate_index.py --crawl --crawl-limit 15000 --workers 24",
         "```",
         "",
         "种子坐标清单见 [tools/seeds/java.json](tools/seeds/java.json)。",
@@ -513,6 +516,7 @@ def main() -> int:
     ap.add_argument("--limit", type=int, default=0, help="0 = no limit (debug)")
     ap.add_argument("--crawl", action="store_true", help="crawl Maven Central and generate index (seeds are merged in)")
     ap.add_argument("--crawl-limit", type=int, default=4000, help="max artifacts fetched by the crawler")
+    ap.add_argument("--workers", type=int, default=24, help="parallel metadata fetch workers")
     ap.add_argument("--refresh-cache", action="store_true", help="ignore cached metadata and fetch everything again")
     args = ap.parse_args()
 
@@ -530,18 +534,16 @@ def main() -> int:
 
     cache = load_cache()
     print(f"Processing {len(libs)} libraries from {seed_path}...", flush=True)
-    for i, lib in enumerate(libs, 1):
-        try:
-            enrich(lib, cache, use_cache=not args.refresh_cache)
-        except Exception as exc:  # keep going on transient API failures
-            print(f"  [{i}/{len(libs)}] {lib.group}:{lib.artifact} -> {exc}", flush=True)
-        else:
-            print(
-                f"  [{i}/{len(libs)}] {lib.group}:{lib.artifact} -> "
-                f"{lib.latest} targets={','.join(lib.java_targets)}",
-                flush=True,
-            )
-        time.sleep(0.05)
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        futures = [ex.submit(enrich, lib, cache, not args.refresh_cache) for lib in libs]
+        for i, fut in enumerate(as_completed(futures), 1):
+            try:
+                fut.result()
+            except Exception as exc:  # keep going on transient API failures
+                print(f"  [{i}/{len(libs)}] enrich error -> {exc}", flush=True)
+            if i % 500 == 0 or i == len(futures):
+                save_cache(cache)
+                print(f"  enriched {i}/{len(libs)}", flush=True)
 
     save_cache(cache)
     counts = generate(root, libs, root)
