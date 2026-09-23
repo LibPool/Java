@@ -15,6 +15,7 @@ import argparse
 import io
 import json
 import re
+import subprocess
 import sys
 import time
 import urllib.parse
@@ -70,6 +71,25 @@ def http_json(url: str) -> dict | None:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=30) as resp:
         return json.load(resp)
+
+
+def search_json(url: str) -> dict | None:
+    """Maven search endpoint; curl first because urllib stalls on large replies."""
+    for attempt in range(4):
+        try:
+            proc = subprocess.run(
+                ["curl.exe", "-s", "-m", "30", url],
+                capture_output=True,
+                timeout=45,
+                text=True,
+            )
+            if proc.returncode == 0 and proc.stdout.strip():
+                return json.loads(proc.stdout)
+            print(f"  search curl retry {attempt}: rc={proc.returncode}", flush=True)
+        except Exception as exc:
+            print(f"  search curl retry {attempt}: {exc}", flush=True)
+        time.sleep(1.0 * (attempt + 1))
+    return None
 
 
 def http_text(url: str) -> str:
@@ -421,12 +441,9 @@ def crawl_maven_unique_artifacts(max_artifacts: int) -> list[dict]:
     for kw in CRAWL_KEYWORDS:
         q = urllib.parse.quote(kw)
         for start in range(0, 10001, 100):
-            url = f"{MAVEN_SEARCH}?q={q}&rows=100&start={start}&wt=json&core=gav"
-            try:
-                data = http_json(url)
-                docs = (data.get("response") or {}).get("docs") or []
-            except Exception:
-                break
+            url = f"{MAVEN_SEARCH}?q={q}&rows=100&start={start}&wt=json"
+            data = search_json(url)
+            docs = (data or {}).get("response", {}).get("docs") or []
             if not docs:
                 break
             for d in docs:
