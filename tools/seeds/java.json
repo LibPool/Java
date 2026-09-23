@@ -1,0 +1,1607 @@
+[
+  {
+    "group": "org.springframework",
+    "artifact": "spring-context",
+    "tags": [
+      "IoC",
+      "依赖注入",
+      "Web框架"
+    ]
+  },
+  {
+    "group": "org.springframework",
+    "artifact": "spring-core",
+    "tags": [
+      "IoC",
+      "核心工具"
+    ]
+  },
+  {
+    "group": "org.springframework",
+    "artifact": "spring-web",
+    "tags": [
+      "Web框架",
+      "HTTP"
+    ]
+  },
+  {
+    "group": "org.springframework",
+    "artifact": "spring-webmvc",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "group": "org.springframework",
+    "artifact": "spring-jdbc",
+    "tags": [
+      "数据库",
+      "JDBC"
+    ]
+  },
+  {
+    "group": "org.springframework.boot",
+    "artifact": "spring-boot",
+    "tags": [
+      "Web框架",
+      "微服务"
+    ]
+  },
+  {
+    "group": "org.springframework.boot",
+    "artifact": "spring-boot-autoconfigure",
+    "tags": [
+      "Web框架",
+      "自动配置"
+    ]
+  },
+  {
+    "group": "org.springframework.boot",
+    "artifact": "spring-boot-starter-web",
+    "tags": [
+      "Web框架",
+      "微服务"
+    ]
+  },
+  {
+    "group": "org.springframework.boot",
+    "artifact": "spring-boot-starter-test",
+    "tags": [
+      "测试"
+    ]
+  },
+  {
+    "group": "org.springframework.boot",
+    "artifact": "spring-boot-starter-security",
+    "tags": [
+      "安全",
+      "认证"
+    ]
+  },
+  {
+    "group": "org.springframework.security",
+    "artifact": "spring-security-core",
+    "tags": [
+      "安全",
+      "认证"
+    ]
+  },
+  {
+    "group": "org.springframework.cloud",
+    "artifact": "spring-cloud-starter-gateway",
+    "tags": [
+      "微服务",
+      "网关"
+    ]
+  },
+  {
+    "group": "org.springframework.kafka",
+    "artifact": "spring-kafka",
+    "tags": [
+      "消息队列",
+      "Kafka"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-lang3",
+    "tags": [
+      "工具库"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-collections4",
+    "tags": [
+      "集合",
+      "工具库"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-math3",
+    "tags": [
+      "数学",
+      "统计"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-text",
+    "tags": [
+      "文本",
+      "工具库"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-compress",
+    "tags": [
+      "压缩",
+      "工具库"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-csv",
+    "tags": [
+      "CSV",
+      "解析"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-pool2",
+    "tags": [
+      "对象池"
+    ]
+  },
+  {
+    "group": "commons-io",
+    "artifact": "commons-io",
+    "tags": [
+      "IO",
+      "工具库"
+    ]
+  },
+  {
+    "group": "commons-logging",
+    "artifact": "commons-logging",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "group": "commons-codec",
+    "artifact": "commons-codec",
+    "tags": [
+      "编码",
+      "加密"
+    ]
+  },
+  {
+    "group": "commons-validator",
+    "artifact": "commons-validator",
+    "tags": [
+      "校验"
+    ]
+  },
+  {
+    "group": "commons-beanutils",
+    "artifact": "commons-beanutils",
+    "tags": [
+      "Bean",
+      "反射"
+    ]
+  },
+  {
+    "group": "org.apache.commons",
+    "artifact": "commons-dbcp2",
+    "tags": [
+      "连接池",
+      "数据库"
+    ]
+  },
+  {
+    "group": "commons-fileupload",
+    "artifact": "commons-fileupload",
+    "tags": [
+      "文件上传",
+      "Web"
+    ]
+  },
+  {
+    "group": "org.apache.httpcomponents",
+    "artifact": "httpclient",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "group": "org.apache.httpcomponents.client5",
+    "artifact": "httpclient5",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "group": "org.apache.httpcomponents.core5",
+    "artifact": "httpcore5",
+    "tags": [
+      "HTTP",
+      "网络"
+    ]
+  },
+  {
+    "group": "org.apache.poi",
+    "artifact": "poi",
+    "tags": [
+      "Office",
+      "Excel",
+      "Word"
+    ]
+  },
+  {
+    "group": "org.apache.poi",
+    "artifact": "poi-ooxml",
+    "tags": [
+      "Office",
+      "Excel",
+      "Word"
+    ]
+  },
+  {
+    "group": "org.apache.pdfbox",
+    "artifact": "pdfbox",
+    "tags": [
+      "PDF",
+      "文档处理"
+    ]
+  },
+  {
+    "group": "org.apache.tika",
+    "artifact": "tika-core",
+    "tags": [
+      "文档解析",
+      "文本提取"
+    ]
+  },
+  {
+    "group": "org.apache.kafka",
+    "artifact": "kafka-clients",
+    "tags": [
+      "消息队列",
+      "Kafka"
+    ]
+  },
+  {
+    "group": "org.apache.kafka",
+    "artifact": "kafka-streams",
+    "tags": [
+      "流计算",
+      "Kafka"
+    ]
+  },
+  {
+    "group": "org.apache.zookeeper",
+    "artifact": "zookeeper",
+    "tags": [
+      "分布式协调"
+    ]
+  },
+  {
+    "group": "org.apache.dubbo",
+    "artifact": "dubbo",
+    "tags": [
+      "RPC",
+      "微服务"
+    ]
+  },
+  {
+    "group": "org.apache.rocketmq",
+    "artifact": "rocketmq-client",
+    "tags": [
+      "消息队列"
+    ]
+  },
+  {
+    "group": "org.apache.activemq",
+    "artifact": "activemq-client",
+    "tags": [
+      "消息队列"
+    ]
+  },
+  {
+    "group": "org.apache.activemq",
+    "artifact": "activemq-all",
+    "tags": [
+      "消息队列"
+    ]
+  },
+  {
+    "group": "org.apache.pulsar",
+    "artifact": "pulsar-client",
+    "tags": [
+      "消息队列",
+      "流计算"
+    ]
+  },
+  {
+    "group": "org.apache.curator",
+    "artifact": "curator-framework",
+    "tags": [
+      "分布式协调",
+      "ZooKeeper"
+    ]
+  },
+  {
+    "group": "org.apache.curator",
+    "artifact": "curator-recipes",
+    "tags": [
+      "分布式协调",
+      "分布式锁"
+    ]
+  },
+  {
+    "group": "org.apache.tomcat",
+    "artifact": "tomcat-catalina",
+    "tags": [
+      "Web服务器",
+      "Servlet"
+    ]
+  },
+  {
+    "group": "org.apache.tomcat.embed",
+    "artifact": "tomcat-embed-core",
+    "tags": [
+      "Web服务器",
+      "嵌入式"
+    ]
+  },
+  {
+    "group": "org.apache.velocity",
+    "artifact": "velocity-engine-core",
+    "tags": [
+      "模板引擎"
+    ]
+  },
+  {
+    "group": "org.freemarker",
+    "artifact": "freemarker",
+    "tags": [
+      "模板引擎"
+    ]
+  },
+  {
+    "group": "org.apache.lucene",
+    "artifact": "lucene-core",
+    "tags": [
+      "全文检索"
+    ]
+  },
+  {
+    "group": "org.apache.solr",
+    "artifact": "solr-core",
+    "tags": [
+      "全文检索",
+      "搜索引擎"
+    ]
+  },
+  {
+    "group": "org.apache.hadoop",
+    "artifact": "hadoop-common",
+    "tags": [
+      "大数据",
+      "分布式存储"
+    ]
+  },
+  {
+    "group": "org.apache.spark",
+    "artifact": "spark-core_2.13",
+    "tags": [
+      "大数据",
+      "计算引擎"
+    ]
+  },
+  {
+    "group": "org.apache.spark",
+    "artifact": "spark-sql_2.13",
+    "tags": [
+      "大数据",
+      "SQL"
+    ]
+  },
+  {
+    "group": "org.apache.flink",
+    "artifact": "flink-core",
+    "tags": [
+      "流计算",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.flink",
+    "artifact": "flink-java",
+    "tags": [
+      "流计算",
+      "Java"
+    ]
+  },
+  {
+    "group": "org.apache.flink",
+    "artifact": "flink-streaming-java",
+    "tags": [
+      "流计算",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.hive",
+    "artifact": "hive-common",
+    "tags": [
+      "数据仓库",
+      "SQL"
+    ]
+  },
+  {
+    "group": "org.apache.hbase",
+    "artifact": "hbase-client",
+    "tags": [
+      "NoSQL",
+      "分布式数据库"
+    ]
+  },
+  {
+    "group": "org.apache.cassandra",
+    "artifact": "cassandra-all",
+    "tags": [
+      "NoSQL",
+      "分布式数据库"
+    ]
+  },
+  {
+    "group": "org.apache.calcite",
+    "artifact": "calcite-core",
+    "tags": [
+      "SQL",
+      "查询优化"
+    ]
+  },
+  {
+    "group": "org.apache.iceberg",
+    "artifact": "iceberg-core",
+    "tags": [
+      "数据湖",
+      "表格式"
+    ]
+  },
+  {
+    "group": "org.apache.hudi",
+    "artifact": "hudi-common",
+    "tags": [
+      "数据湖",
+      "表格式"
+    ]
+  },
+  {
+    "group": "org.apache.arrow",
+    "artifact": "arrow-memory-core",
+    "tags": [
+      "列式存储",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.parquet",
+    "artifact": "parquet-hadoop",
+    "tags": [
+      "列式存储",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.avro",
+    "artifact": "avro",
+    "tags": [
+      "序列化",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.orc",
+    "artifact": "orc-core",
+    "tags": [
+      "列式存储",
+      "大数据"
+    ]
+  },
+  {
+    "group": "org.apache.maven",
+    "artifact": "maven-core",
+    "tags": [
+      "构建工具"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-compiler-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-surefire-plugin",
+    "tags": [
+      "构建插件",
+      "测试"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-shade-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-dependency-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-assembly-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-jar-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.apache.maven.plugins",
+    "artifact": "maven-release-plugin",
+    "tags": [
+      "构建插件",
+      "发布"
+    ]
+  },
+  {
+    "group": "org.apache.maven.wagon",
+    "artifact": "wagon-http",
+    "tags": [
+      "构建工具"
+    ]
+  },
+  {
+    "group": "org.codehaus.plexus",
+    "artifact": "plexus-utils",
+    "tags": [
+      "工具库"
+    ]
+  },
+  {
+    "group": "org.codehaus.mojo",
+    "artifact": "exec-maven-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "org.codehaus.mojo",
+    "artifact": "versions-maven-plugin",
+    "tags": [
+      "构建插件"
+    ]
+  },
+  {
+    "group": "com.google.guava",
+    "artifact": "guava",
+    "tags": [
+      "工具库",
+      "集合"
+    ]
+  },
+  {
+    "group": "com.google.code.gson",
+    "artifact": "gson",
+    "tags": [
+      "JSON",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.google.protobuf",
+    "artifact": "protobuf-java",
+    "tags": [
+      "序列化",
+      "RPC"
+    ]
+  },
+  {
+    "group": "com.google.inject",
+    "artifact": "guice",
+    "tags": [
+      "IoC",
+      "依赖注入"
+    ]
+  },
+  {
+    "group": "com.google.http-client",
+    "artifact": "google-http-client",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "group": "com.google.api-client",
+    "artifact": "google-api-client",
+    "tags": [
+      "API客户端"
+    ]
+  },
+  {
+    "group": "com.google.errorprone",
+    "artifact": "error_prone_annotations",
+    "tags": [
+      "代码检查"
+    ]
+  },
+  {
+    "group": "com.google.truth",
+    "artifact": "truth",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "group": "com.google.zxing",
+    "artifact": "core",
+    "tags": [
+      "二维码",
+      "条码"
+    ]
+  },
+  {
+    "group": "com.google.cloud",
+    "artifact": "google-cloud-storage",
+    "tags": [
+      "云存储",
+      "GCP"
+    ]
+  },
+  {
+    "group": "com.google.firebase",
+    "artifact": "firebase-admin",
+    "tags": [
+      "云服务",
+      "Firebase"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.core",
+    "artifact": "jackson-databind",
+    "tags": [
+      "JSON",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.core",
+    "artifact": "jackson-core",
+    "tags": [
+      "JSON",
+      "流式解析"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.core",
+    "artifact": "jackson-annotations",
+    "tags": [
+      "JSON",
+      "注解"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.dataformat",
+    "artifact": "jackson-dataformat-xml",
+    "tags": [
+      "XML",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.dataformat",
+    "artifact": "jackson-dataformat-yaml",
+    "tags": [
+      "YAML",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.dataformat",
+    "artifact": "jackson-dataformat-csv",
+    "tags": [
+      "CSV",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.datatype",
+    "artifact": "jackson-datatype-jsr310",
+    "tags": [
+      "JSON",
+      "日期时间"
+    ]
+  },
+  {
+    "group": "com.fasterxml.jackson.module",
+    "artifact": "jackson-module-kotlin",
+    "tags": [
+      "JSON",
+      "Kotlin"
+    ]
+  },
+  {
+    "group": "com.squareup.okhttp3",
+    "artifact": "okhttp",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "group": "com.squareup.okio",
+    "artifact": "okio",
+    "tags": [
+      "IO",
+      "工具库"
+    ]
+  },
+  {
+    "group": "com.squareup.retrofit2",
+    "artifact": "retrofit",
+    "tags": [
+      "HTTP客户端",
+      "REST"
+    ]
+  },
+  {
+    "group": "com.squareup.picasso",
+    "artifact": "picasso",
+    "tags": [
+      "图片加载"
+    ]
+  },
+  {
+    "group": "com.squareup.moshi",
+    "artifact": "moshi",
+    "tags": [
+      "JSON",
+      "序列化"
+    ]
+  },
+  {
+    "group": "com.squareup",
+    "artifact": "javapoet",
+    "tags": [
+      "代码生成"
+    ]
+  },
+  {
+    "group": "io.reactivex.rxjava2",
+    "artifact": "rxjava",
+    "tags": [
+      "响应式编程"
+    ]
+  },
+  {
+    "group": "io.reactivex.rxjava3",
+    "artifact": "rxjava",
+    "tags": [
+      "响应式编程"
+    ]
+  },
+  {
+    "group": "io.projectreactor",
+    "artifact": "reactor-core",
+    "tags": [
+      "响应式编程"
+    ]
+  },
+  {
+    "group": "io.projectreactor",
+    "artifact": "reactor-test",
+    "tags": [
+      "响应式编程",
+      "测试"
+    ]
+  },
+  {
+    "group": "io.projectreactor.netty",
+    "artifact": "reactor-netty",
+    "tags": [
+      "响应式编程",
+      "网络"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-all",
+    "tags": [
+      "网络框架"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-buffer",
+    "tags": [
+      "网络框架",
+      "缓冲区"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-codec-http",
+    "tags": [
+      "网络框架",
+      "HTTP"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-codec-http2",
+    "tags": [
+      "网络框架",
+      "HTTP/2"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-codec-mqtt",
+    "tags": [
+      "网络框架",
+      "MQTT"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-handler",
+    "tags": [
+      "网络框架"
+    ]
+  },
+  {
+    "group": "io.netty",
+    "artifact": "netty-transport",
+    "tags": [
+      "网络框架"
+    ]
+  },
+  {
+    "group": "io.vertx",
+    "artifact": "vertx-core",
+    "tags": [
+      "网络框架",
+      "异步编程"
+    ]
+  },
+  {
+    "group": "io.vertx",
+    "artifact": "vertx-web",
+    "tags": [
+      "Web框架"
+    ]
+  },
+  {
+    "group": "io.grpc",
+    "artifact": "grpc-netty-shaded",
+    "tags": [
+      "RPC",
+      "gRPC"
+    ]
+  },
+  {
+    "group": "io.grpc",
+    "artifact": "grpc-protobuf",
+    "tags": [
+      "RPC",
+      "gRPC"
+    ]
+  },
+  {
+    "group": "io.grpc",
+    "artifact": "grpc-stub",
+    "tags": [
+      "RPC",
+      "gRPC"
+    ]
+  },
+  {
+    "group": "io.jsonwebtoken",
+    "artifact": "jjwt-api",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "group": "io.jsonwebtoken",
+    "artifact": "jjwt-jackson",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "group": "io.dropwizard.metrics",
+    "artifact": "metrics-core",
+    "tags": [
+      "监控",
+      "指标"
+    ]
+  },
+  {
+    "group": "io.prometheus",
+    "artifact": "simpleclient",
+    "tags": [
+      "监控",
+      "指标"
+    ]
+  },
+  {
+    "group": "io.micrometer",
+    "artifact": "micrometer-core",
+    "tags": [
+      "监控",
+      "指标"
+    ]
+  },
+  {
+    "group": "io.opentelemetry",
+    "artifact": "opentelemetry-api",
+    "tags": [
+      "链路追踪",
+      "可观测性"
+    ]
+  },
+  {
+    "group": "io.opentelemetry",
+    "artifact": "opentelemetry-sdk",
+    "tags": [
+      "链路追踪",
+      "可观测性"
+    ]
+  },
+  {
+    "group": "io.zipkin.brave",
+    "artifact": "brave",
+    "tags": [
+      "链路追踪"
+    ]
+  },
+  {
+    "group": "io.lettuce",
+    "artifact": "lettuce-core",
+    "tags": [
+      "Redis",
+      "NoSQL"
+    ]
+  },
+  {
+    "group": "redis.clients",
+    "artifact": "jedis",
+    "tags": [
+      "Redis",
+      "NoSQL"
+    ]
+  },
+  {
+    "group": "org.redisson",
+    "artifact": "redisson",
+    "tags": [
+      "Redis",
+      "分布式锁"
+    ]
+  },
+  {
+    "group": "org.mongodb",
+    "artifact": "mongodb-driver-sync",
+    "tags": [
+      "NoSQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "group": "org.mongodb",
+    "artifact": "mongodb-driver-core",
+    "tags": [
+      "NoSQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "group": "org.elasticsearch",
+    "artifact": "elasticsearch",
+    "tags": [
+      "搜索引擎",
+      "全文检索"
+    ]
+  },
+  {
+    "group": "org.elasticsearch.client",
+    "artifact": "elasticsearch-rest-client",
+    "tags": [
+      "搜索引擎",
+      "客户端"
+    ]
+  },
+  {
+    "group": "co.elastic.clients",
+    "artifact": "elasticsearch-java",
+    "tags": [
+      "搜索引擎",
+      "客户端"
+    ]
+  },
+  {
+    "group": "org.mybatis",
+    "artifact": "mybatis",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "group": "org.mybatis",
+    "artifact": "mybatis-spring",
+    "tags": [
+      "ORM",
+      "Spring集成"
+    ]
+  },
+  {
+    "group": "com.baomidou",
+    "artifact": "mybatis-plus",
+    "tags": [
+      "ORM",
+      "增强"
+    ]
+  },
+  {
+    "group": "org.hibernate.orm",
+    "artifact": "hibernate-core",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "group": "org.hibernate.validator",
+    "artifact": "hibernate-validator",
+    "tags": [
+      "校验"
+    ]
+  },
+  {
+    "group": "org.jdbi",
+    "artifact": "jdbi3-core",
+    "tags": [
+      "数据库",
+      "SQL"
+    ]
+  },
+  {
+    "group": "org.jooq",
+    "artifact": "jooq",
+    "tags": [
+      "数据库",
+      "SQL"
+    ]
+  },
+  {
+    "group": "com.zaxxer",
+    "artifact": "HikariCP",
+    "tags": [
+      "连接池"
+    ]
+  },
+  {
+    "group": "com.alibaba",
+    "artifact": "druid",
+    "tags": [
+      "连接池",
+      "监控"
+    ]
+  },
+  {
+    "group": "com.alibaba",
+    "artifact": "fastjson",
+    "tags": [
+      "JSON",
+      "序列化"
+    ]
+  },
+  {
+    "group": "org.postgresql",
+    "artifact": "postgresql",
+    "tags": [
+      "数据库驱动",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "group": "com.mysql",
+    "artifact": "mysql-connector-j",
+    "tags": [
+      "数据库驱动",
+      "MySQL"
+    ]
+  },
+  {
+    "group": "com.microsoft.sqlserver",
+    "artifact": "mssql-jdbc",
+    "tags": [
+      "数据库驱动",
+      "SQL Server"
+    ]
+  },
+  {
+    "group": "org.xerial",
+    "artifact": "sqlite-jdbc",
+    "tags": [
+      "数据库驱动",
+      "SQLite"
+    ]
+  },
+  {
+    "group": "com.h2database",
+    "artifact": "h2",
+    "tags": [
+      "数据库",
+      "内存数据库"
+    ]
+  },
+  {
+    "group": "org.flywaydb",
+    "artifact": "flyway-core",
+    "tags": [
+      "数据库迁移"
+    ]
+  },
+  {
+    "group": "org.liquibase",
+    "artifact": "liquibase-core",
+    "tags": [
+      "数据库迁移"
+    ]
+  },
+  {
+    "group": "org.mapstruct",
+    "artifact": "mapstruct",
+    "tags": [
+      "代码生成",
+      "对象映射"
+    ]
+  },
+  {
+    "group": "org.projectlombok",
+    "artifact": "lombok",
+    "tags": [
+      "代码生成",
+      "注解"
+    ]
+  },
+  {
+    "group": "org.jetbrains",
+    "artifact": "annotations",
+    "tags": [
+      "注解",
+      "空安全"
+    ]
+  },
+  {
+    "group": "org.jetbrains.kotlin",
+    "artifact": "kotlin-stdlib",
+    "tags": [
+      "语言",
+      "Kotlin"
+    ]
+  },
+  {
+    "group": "org.jetbrains.kotlinx",
+    "artifact": "kotlinx-coroutines-core",
+    "tags": [
+      "协程",
+      "异步编程"
+    ]
+  },
+  {
+    "group": "org.jetbrains.kotlinx",
+    "artifact": "kotlinx-serialization-json",
+    "tags": [
+      "JSON",
+      "序列化"
+    ]
+  },
+  {
+    "group": "org.scala-lang",
+    "artifact": "scala-library",
+    "tags": [
+      "语言",
+      "Scala"
+    ]
+  },
+  {
+    "group": "org.junit.jupiter",
+    "artifact": "junit-jupiter",
+    "tags": [
+      "测试",
+      "单元测试"
+    ]
+  },
+  {
+    "group": "org.junit.jupiter",
+    "artifact": "junit-jupiter-api",
+    "tags": [
+      "测试",
+      "单元测试"
+    ]
+  },
+  {
+    "group": "org.junit.platform",
+    "artifact": "junit-platform-launcher",
+    "tags": [
+      "测试"
+    ]
+  },
+  {
+    "group": "junit",
+    "artifact": "junit",
+    "tags": [
+      "测试",
+      "单元测试"
+    ]
+  },
+  {
+    "group": "org.testng",
+    "artifact": "testng",
+    "tags": [
+      "测试",
+      "单元测试"
+    ]
+  },
+  {
+    "group": "org.assertj",
+    "artifact": "assertj-core",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "group": "org.hamcrest",
+    "artifact": "hamcrest",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "group": "org.mockito",
+    "artifact": "mockito-core",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "group": "org.mockito",
+    "artifact": "mockito-junit-jupiter",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "group": "org.testcontainers",
+    "artifact": "testcontainers",
+    "tags": [
+      "测试",
+      "容器"
+    ]
+  },
+  {
+    "group": "org.testcontainers",
+    "artifact": "junit-jupiter",
+    "tags": [
+      "测试",
+      "容器"
+    ]
+  },
+  {
+    "group": "org.awaitility",
+    "artifact": "awaitility",
+    "tags": [
+      "测试",
+      "异步"
+    ]
+  },
+  {
+    "group": "org.openjdk.jmh",
+    "artifact": "jmh-core",
+    "tags": [
+      "性能测试",
+      "基准测试"
+    ]
+  },
+  {
+    "group": "org.jacoco",
+    "artifact": "org.jacoco.core",
+    "tags": [
+      "代码覆盖率"
+    ]
+  },
+  {
+    "group": "org.sonarsource.scanner.maven",
+    "artifact": "sonar-maven-plugin",
+    "tags": [
+      "代码质量"
+    ]
+  },
+  {
+    "group": "jakarta.xml.bind",
+    "artifact": "jakarta.xml.bind-api",
+    "tags": [
+      "XML绑定",
+      "JAXB"
+    ]
+  },
+  {
+    "group": "jakarta.persistence",
+    "artifact": "jakarta.persistence-api",
+    "tags": [
+      "ORM",
+      "JPA规范"
+    ]
+  },
+  {
+    "group": "jakarta.validation",
+    "artifact": "jakarta.validation-api",
+    "tags": [
+      "校验",
+      "规范"
+    ]
+  },
+  {
+    "group": "jakarta.servlet",
+    "artifact": "jakarta.servlet-api",
+    "tags": [
+      "Web",
+      "Servlet规范"
+    ]
+  },
+  {
+    "group": "javax.servlet",
+    "artifact": "javax.servlet-api",
+    "tags": [
+      "Web",
+      "Servlet规范"
+    ]
+  },
+  {
+    "group": "javax.persistence",
+    "artifact": "javax.persistence-api",
+    "tags": [
+      "ORM",
+      "JPA规范"
+    ]
+  },
+  {
+    "group": "jakarta.inject",
+    "artifact": "jakarta.inject-api",
+    "tags": [
+      "IoC",
+      "依赖注入",
+      "规范"
+    ]
+  },
+  {
+    "group": "javax.inject",
+    "artifact": "javax.inject",
+    "tags": [
+      "IoC",
+      "依赖注入",
+      "规范"
+    ]
+  },
+  {
+    "group": "org.eclipse.jetty",
+    "artifact": "jetty-server",
+    "tags": [
+      "Web服务器"
+    ]
+  },
+  {
+    "group": "org.eclipse.jetty",
+    "artifact": "jetty-servlet",
+    "tags": [
+      "Web服务器"
+    ]
+  },
+  {
+    "group": "org.eclipse.jgit",
+    "artifact": "org.eclipse.jgit",
+    "tags": [
+      "Git",
+      "版本控制"
+    ]
+  },
+  {
+    "group": "org.glassfish.jersey.core",
+    "artifact": "jersey-client",
+    "tags": [
+      "REST",
+      "JAX-RS"
+    ]
+  },
+  {
+    "group": "org.glassfish.jersey.core",
+    "artifact": "jersey-server",
+    "tags": [
+      "REST",
+      "JAX-RS"
+    ]
+  },
+  {
+    "group": "org.glassfish.jaxb",
+    "artifact": "jaxb-runtime",
+    "tags": [
+      "XML绑定",
+      "JAXB"
+    ]
+  },
+  {
+    "group": "com.sun.mail",
+    "artifact": "jakarta.mail",
+    "tags": [
+      "邮件"
+    ]
+  },
+  {
+    "group": "org.jsoup",
+    "artifact": "jsoup",
+    "tags": [
+      "HTML解析",
+      "爬虫"
+    ]
+  },
+  {
+    "group": "com.microsoft.playwright",
+    "artifact": "playwright",
+    "tags": [
+      "浏览器自动化"
+    ]
+  },
+  {
+    "group": "org.seleniumhq.selenium",
+    "artifact": "selenium-java",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "group": "io.github.bonigarcia",
+    "artifact": "webdrivermanager",
+    "tags": [
+      "浏览器自动化",
+      "驱动管理"
+    ]
+  },
+  {
+    "group": "us.codecraft",
+    "artifact": "webmagic-core",
+    "tags": [
+      "爬虫"
+    ]
+  },
+  {
+    "group": "io.github.resilience4j",
+    "artifact": "resilience4j-circuitbreaker",
+    "tags": [
+      "容错",
+      "熔断"
+    ]
+  },
+  {
+    "group": "io.github.resilience4j",
+    "artifact": "resilience4j-ratelimiter",
+    "tags": [
+      "限流",
+      "容错"
+    ]
+  },
+  {
+    "group": "io.github.resilience4j",
+    "artifact": "resilience4j-retry",
+    "tags": [
+      "重试",
+      "容错"
+    ]
+  },
+  {
+    "group": "org.quartz-scheduler",
+    "artifact": "quartz",
+    "tags": [
+      "定时任务"
+    ]
+  },
+  {
+    "group": "com.github.oshi",
+    "artifact": "oshi-core",
+    "tags": [
+      "系统信息",
+      "监控"
+    ]
+  },
+  {
+    "group": "net.java.dev.jna",
+    "artifact": "jna",
+    "tags": [
+      "本地调用",
+      "JNI"
+    ]
+  },
+  {
+    "group": "info.picocli",
+    "artifact": "picocli",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "group": "org.apache.ant",
+    "artifact": "ant",
+    "tags": [
+      "构建工具"
+    ]
+  },
+  {
+    "group": "org.slf4j",
+    "artifact": "slf4j-api",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "group": "ch.qos.logback",
+    "artifact": "logback-classic",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "group": "org.apache.logging.log4j",
+    "artifact": "log4j-core",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "group": "org.apache.logging.log4j",
+    "artifact": "log4j-api",
+    "tags": [
+      "日志"
+    ]
+  }
+]
