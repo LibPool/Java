@@ -2,4 +2,5 @@ __pycache__/
 *.pyc
 *.log
 *.err
+logs/
 tools/cache/
