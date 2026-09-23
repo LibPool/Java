@@ -1,0 +1,25 @@
+# topp-standard-jakarta-messaging
+
+> 标签: github, Java 21+
+
+## 简介
+
+Topp Standard Jakarta Messaging Library addressing basics of Jakarta Messaging.
+
+最低 Java 版本：Java 21；已收录于 java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://github.com/sabroe/Topp-Standard
+
+## 历史版本号
+
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/yelstream/topp/standard/topp-standard-jakarta-messaging/
+- Maven 坐标：`com.yelstream.topp.standard:topp-standard-jakarta-messaging`
+- pom.xml 引用：`<dependency><groupId>com.yelstream.topp.standard</groupId><artifactId>topp-standard-jakarta-messaging</artifactId><version>0.2.3</version></dependency>`
+- 源码仓库：https://github.com/sabroe/Topp-Standard

@@ -1,0 +1,29 @@
+# dolphinscheduler-authentication
+
+> 标签: Java, Java 8+
+
+## 简介
+
+dolphinscheduler-authentication - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.apache.dolphinscheduler%3Adolphinscheduler-authentication
+
+## 历史版本号
+
+- 3.3.0-alpha
+- 3.3.1
+- 3.3.2
+- 3.4.0
+- 3.4.1
+- 3.4.2
+- 3.4.3
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/apache/dolphinscheduler/dolphinscheduler-authentication/
+- Maven 坐标：`org.apache.dolphinscheduler:dolphinscheduler-authentication`
+- pom.xml 引用：`<dependency><groupId>org.apache.dolphinscheduler</groupId><artifactId>dolphinscheduler-authentication</artifactId><version>3.4.3</version></dependency>`

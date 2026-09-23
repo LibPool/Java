@@ -1,0 +1,25 @@
+# tapestry-latest-java-tests-jakarta
+
+> 标签: Java, Java 17+
+
+## 简介
+
+tapestry-latest-java-tests
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://tapestry.apache.org/
+
+## 历史版本号
+
+- 5.9.0
+- 5.9.0-preview-2
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/apache/tapestry/tapestry-latest-java-tests-jakarta/
+- Maven 坐标：`org.apache.tapestry:tapestry-latest-java-tests-jakarta`
+- pom.xml 引用：`<dependency><groupId>org.apache.tapestry</groupId><artifactId>tapestry-latest-java-tests-jakarta</artifactId><version>5.9.0-preview-2</version></dependency>`
+- 源码仓库：https://git-wip-us.apache.org/repos/asf?p=tapestry-5.git;a=summary

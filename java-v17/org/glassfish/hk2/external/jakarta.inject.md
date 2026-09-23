@@ -1,0 +1,23 @@
+# jakarta.inject
+
+> 标签: Java, Java 8+
+
+## 简介
+
+Injection API (JSR 330) version ${javax.inject.version} repackaged as OSGi bundle
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.glassfish.hk2.external%3Ajakarta.inject
+
+## 历史版本号
+
+- 2.6.1
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/glassfish/hk2/external/jakarta.inject/
+- Maven 坐标：`org.glassfish.hk2.external:jakarta.inject`
+- pom.xml 引用：`<dependency><groupId>org.glassfish.hk2.external</groupId><artifactId>jakarta.inject</artifactId><version>2.6.1</version></dependency>`

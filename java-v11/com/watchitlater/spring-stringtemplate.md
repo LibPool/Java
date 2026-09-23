@@ -1,0 +1,23 @@
+# spring-stringtemplate
+
+> 标签: github, Java 8+
+
+## 简介
+
+Library to provide StringTemplate integration for Spring MVC and SiteMesh
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://github.com/tomcz/spring-stringtemplate
+
+## 历史版本号
+
+- 1.5.1
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/watchitlater/spring-stringtemplate/
+- Maven 坐标：`com.watchitlater:spring-stringtemplate`
+- pom.xml 引用：`<dependency><groupId>com.watchitlater</groupId><artifactId>spring-stringtemplate</artifactId><version>1.5.1</version></dependency>`

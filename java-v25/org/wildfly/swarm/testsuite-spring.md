@@ -1,0 +1,33 @@
+# testsuite-spring
+
+> 标签: Java, Java 8+
+
+## 简介
+
+Test Suite: Spring
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.wildfly.swarm%3Atestsuite-spring
+
+## 历史版本号
+
+- 2016.11.0
+- 2016.12.0
+- 2016.12.1
+- 2017.1
+- 2017.1.1
+- 2017.2.0
+- 2017.3.2
+- 2017.3.3
+- 2017.4.0
+- 2017.5.0
+- 共 14 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/wildfly/swarm/testsuite-spring/
+- Maven 坐标：`org.wildfly.swarm:testsuite-spring`
+- pom.xml 引用：`<dependency><groupId>org.wildfly.swarm</groupId><artifactId>testsuite-spring</artifactId><version>2017.5.0</version></dependency>`

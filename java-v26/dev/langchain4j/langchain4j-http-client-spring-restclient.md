@@ -1,0 +1,34 @@
+# langchain4j-http-client-spring-restclient
+
+> 标签: github, Java 17+
+
+## 简介
+
+Parent POM for langchain4j-spring submodules
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://github.com/langchain4j/langchain4j-spring/tree/main/langchain4j-http-client-spring-restclient
+
+## 历史版本号
+
+- 1.17.0-beta27
+- 1.17.1-beta27
+- 1.17.2-beta27
+- 1.18.0-beta28
+- 1.18.1-beta28
+- 1.19.0-beta29
+- 1.19.1-beta29
+- 1.19.2-beta29
+- 1.19.3-beta29
+- 1.20.0-beta30
+- 共 55 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/dev/langchain4j/langchain4j-http-client-spring-restclient/
+- Maven 坐标：`dev.langchain4j:langchain4j-http-client-spring-restclient`
+- pom.xml 引用：`<dependency><groupId>dev.langchain4j</groupId><artifactId>langchain4j-http-client-spring-restclient</artifactId><version>1.20.0-beta30</version></dependency>`
+- 源码仓库：https://github.com/langchain4j/langchain4j-spring/tree/main/langchain4j-http-client-spring-restclient

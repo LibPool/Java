@@ -1,0 +1,24 @@
+# spring-core
+
+> 标签: github, Java 8+
+
+## 简介
+
+Spring Core for jdk 1.5
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://github.com/spring-projects/spring-framework
+
+## 历史版本号
+
+- 4.2.1.RELEASE
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/hynnet/spring-core/
+- Maven 坐标：`com.hynnet:spring-core`
+- pom.xml 引用：`<dependency><groupId>com.hynnet</groupId><artifactId>spring-core</artifactId><version>4.2.1.RELEASE</version></dependency>`
+- 源码仓库：https://github.com/spring-projects/spring-framework

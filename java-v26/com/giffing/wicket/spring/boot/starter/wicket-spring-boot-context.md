@@ -1,0 +1,33 @@
+# wicket-spring-boot-context
+
+> 标签: Java, Java 17+
+
+## 简介
+
+Provides several constructs which allow developers to build custom auto-configuration classes.
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.giffing.wicket.spring.boot.starter%3Awicket-spring-boot-context
+
+## 历史版本号
+
+- 3.0.3-RC
+- 3.0.4
+- 3.1.5
+- 3.1.6
+- 3.1.7
+- 4.0.0-M1
+- 4.0.0
+- 4.1.0
+- 4.1.1
+- 5.0.0
+- 共 53 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/giffing/wicket/spring/boot/starter/wicket-spring-boot-context/
+- Maven 坐标：`com.giffing.wicket.spring.boot.starter:wicket-spring-boot-context`
+- pom.xml 引用：`<dependency><groupId>com.giffing.wicket.spring.boot.starter</groupId><artifactId>wicket-spring-boot-context</artifactId><version>5.0.0</version></dependency>`

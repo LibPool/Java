@@ -6,14 +6,14 @@
 - 包路径：`groupId` 中的 `.` 转成目录分隔符，例如 `org.springframework:spring-context` 位于 `org/springframework/spring-context.md`
 - 库若兼容多个 Java 大版本，会同时出现在所有后续版本目录中
 
-当前共收录 207 个 Maven 坐标：
+当前共收录 15299 个 Maven 坐标（来源为 Maven Central 搜索翻页与人工种子）：
 
-- java-v8：162 个库
-- java-v11：179 个库
-- java-v17：202 个库
-- java-v21：207 个库
-- java-v25：207 个库
-- java-v26：207 个库
+- java-v8：6317 个库
+- java-v11：6820 个库
+- java-v17：8203 个库
+- java-v21：8416 个库
+- java-v25：8430 个库
+- java-v26：8434 个库
 
 ## 数据源
 
@@ -24,7 +24,7 @@
 ## 生成方式
 
 ```bash
-python tools/generate_index.py
+python tools/generate_index.py --crawl --crawl-limit 15000 --workers 24
 ```
 
 种子坐标清单见 [tools/seeds/java.json](tools/seeds/java.json)。
