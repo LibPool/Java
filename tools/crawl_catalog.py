@@ -123,7 +123,11 @@ def main() -> int:
             )
             for future in finished:
                 requested = pending_futures.pop(future)
-                start, count, docs = future.result()
+                try:
+                    start, count, docs = future.result()
+                except Exception as exc:
+                    print(f"page start={requested} failed: {exc}; will retry on a later run", flush=True)
+                    continue
                 if count != expected_total:
                     raise RuntimeError(f"result count changed during crawl: {expected_total} -> {count}")
                 if start != requested:
@@ -140,7 +144,11 @@ def main() -> int:
                 print(f"Checkpoint: {len(completed):,}/{len(starts):,} pages, {len(catalog):,} unique coordinates", flush=True)
                 done_since_checkpoint = 0
         for future, requested in list(pending_futures.items()):
-            start, count, docs = future.result()
+            try:
+                start, count, docs = future.result()
+            except Exception as exc:
+                print(f"page start={requested} failed: {exc}; will retry on a later run", flush=True)
+                continue
             if count != expected_total or start != requested:
                 raise RuntimeError(f"inconsistent final page at start={requested}")
             for doc in docs:

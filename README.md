@@ -27,4 +27,3 @@
 python tools/generate_index.py --crawl --crawl-limit 15000 --workers 24
 ```
 
-种子坐标清单见 [tools/seeds/java.json](tools/seeds/java.json)。
