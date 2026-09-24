@@ -1,0 +1,22 @@
+# db-scheduler
+
+> 标签: Java, Java 17+
+
+## 简介
+
+db-scheduler - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.kagkarlsson%3Adb-scheduler
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/kagkarlsson/db-scheduler/
+- Maven 坐标：`com.github.kagkarlsson:db-scheduler`

@@ -1,0 +1,22 @@
+# xqa-commons-qpid-jms
+
+> 标签: Java, Java 8+
+
+## 简介
+
+xqa-commons-qpid-jms - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.jameshnsears%3Axqa-commons-qpid-jms
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/jameshnsears/xqa-commons-qpid-jms/
+- Maven 坐标：`com.github.jameshnsears:xqa-commons-qpid-jms`

@@ -1,0 +1,22 @@
+# rx-tasks
+
+> 标签: Java, Java 8+
+
+## 简介
+
+rx-tasks - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.ashdavies.rx.rxtasks%3Arx-tasks
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/ashdavies/rx/rxtasks/rx-tasks/
+- Maven 坐标：`io.ashdavies.rx.rxtasks:rx-tasks`

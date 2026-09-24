@@ -1,0 +1,22 @@
+# net.adamcin.recap.replication
+
+> 标签: Java, Java 8+
+
+## 简介
+
+net.adamcin.recap.replication - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/net.adamcin.recap%3Anet.adamcin.recap.replication
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/net/adamcin/recap/net.adamcin.recap.replication/
+- Maven 坐标：`net.adamcin.recap:net.adamcin.recap.replication`

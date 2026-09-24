@@ -1,0 +1,22 @@
+# connect-kotlin-google-java-ext
+
+> 标签: Java, Java 17+
+
+## 简介
+
+connect-kotlin-google-java-ext - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/build.buf%3Aconnect-kotlin-google-java-ext
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/build/buf/connect-kotlin-google-java-ext/
+- Maven 坐标：`build.buf:connect-kotlin-google-java-ext`

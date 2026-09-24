@@ -1,0 +1,22 @@
+# rapidpm-vaadin-testbench-ng-m-pageobject
+
+> 标签: Java, Java 11+
+
+## 简介
+
+rapidpm-vaadin-testbench-ng-m-pageobject - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.rapidpm%3Arapidpm-vaadin-testbench-ng-m-pageobject
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/rapidpm/rapidpm-vaadin-testbench-ng-m-pageobject/
+- Maven 坐标：`org.rapidpm:rapidpm-vaadin-testbench-ng-m-pageobject`

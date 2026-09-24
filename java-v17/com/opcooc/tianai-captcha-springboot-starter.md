@@ -1,0 +1,22 @@
+# tianai-captcha-springboot-starter
+
+> 标签: Java, Java 17+
+
+## 简介
+
+tianai-captcha-springboot-starter - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.opcooc%3Atianai-captcha-springboot-starter
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/opcooc/tianai-captcha-springboot-starter/
+- Maven 坐标：`com.opcooc:tianai-captcha-springboot-starter`

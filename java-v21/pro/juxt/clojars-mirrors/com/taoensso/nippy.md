@@ -1,0 +1,22 @@
+# nippy
+
+> 标签: Java, Java 17+
+
+## 简介
+
+nippy - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/pro.juxt.clojars-mirrors.com.taoensso%3Anippy
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/pro/juxt/clojars-mirrors/com/taoensso/nippy/
+- Maven 坐标：`pro.juxt.clojars-mirrors.com.taoensso:nippy`

@@ -1,0 +1,22 @@
+# xwiki-commons-extension-repository-aether
+
+> 标签: Java, Java 8+
+
+## 简介
+
+xwiki-commons-extension-repository-aether - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.xwiki.commons%3Axwiki-commons-extension-repository-aether
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/xwiki/commons/xwiki-commons-extension-repository-aether/
+- Maven 坐标：`org.xwiki.commons:xwiki-commons-extension-repository-aether`

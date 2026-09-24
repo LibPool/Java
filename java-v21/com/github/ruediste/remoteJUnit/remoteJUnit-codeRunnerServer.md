@@ -1,0 +1,22 @@
+# remoteJUnit-codeRunnerServer
+
+> 标签: Java, Java 8+
+
+## 简介
+
+remoteJUnit-codeRunnerServer - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.ruediste.remoteJUnit%3AremoteJUnit-codeRunnerServer
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/ruediste/remoteJUnit/remoteJUnit-codeRunnerServer/
+- Maven 坐标：`com.github.ruediste.remoteJUnit:remoteJUnit-codeRunnerServer`

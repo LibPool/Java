@@ -1,0 +1,22 @@
+# aquality-selenium-core
+
+> 标签: Java, Java 17+
+
+## 简介
+
+aquality-selenium-core - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.aquality-automation%3Aaquality-selenium-core
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/aquality-automation/aquality-selenium-core/
+- Maven 坐标：`com.github.aquality-automation:aquality-selenium-core`

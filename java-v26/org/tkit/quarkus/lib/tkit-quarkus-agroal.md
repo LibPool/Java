@@ -1,0 +1,22 @@
+# tkit-quarkus-agroal
+
+> 标签: Java, Java 17+
+
+## 简介
+
+tkit-quarkus-agroal - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.tkit.quarkus.lib%3Atkit-quarkus-agroal
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/tkit/quarkus/lib/tkit-quarkus-agroal/
+- Maven 坐标：`org.tkit.quarkus.lib:tkit-quarkus-agroal`

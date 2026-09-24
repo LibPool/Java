@@ -1,0 +1,22 @@
+# mh-base-click-flow
+
+> 标签: Java, Java 11+
+
+## 简介
+
+mh-base-click-flow - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.javaoffers%3Amh-base-click-flow
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/javaoffers/mh-base-click-flow/
+- Maven 坐标：`com.javaoffers:mh-base-click-flow`

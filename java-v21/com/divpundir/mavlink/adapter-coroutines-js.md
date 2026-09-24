@@ -1,0 +1,22 @@
+# adapter-coroutines-js
+
+> 标签: Java, Java 17+
+
+## 简介
+
+adapter-coroutines-js - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.divpundir.mavlink%3Aadapter-coroutines-js
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/divpundir/mavlink/adapter-coroutines-js/
+- Maven 坐标：`com.divpundir.mavlink:adapter-coroutines-js`

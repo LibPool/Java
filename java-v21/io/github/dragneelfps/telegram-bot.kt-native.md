@@ -1,0 +1,22 @@
+# telegram-bot.kt-native
+
+> 标签: Java, Java 11+
+
+## 简介
+
+telegram-bot.kt-native - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.github.dragneelfps%3Atelegram-bot.kt-native
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/github/dragneelfps/telegram-bot.kt-native/
+- Maven 坐标：`io.github.dragneelfps:telegram-bot.kt-native`

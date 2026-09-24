@@ -1,0 +1,22 @@
+# path-mapped-pathdb
+
+> 标签: Java, Java 17+
+
+## 简介
+
+path-mapped-pathdb - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.commonjava.util%3Apath-mapped-pathdb
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/commonjava/util/path-mapped-pathdb/
+- Maven 坐标：`org.commonjava.util:path-mapped-pathdb`

@@ -1,0 +1,22 @@
+# quarkuscoffeeshop-testutils
+
+> 标签: Java, Java 11+
+
+## 简介
+
+quarkuscoffeeshop-testutils - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.quarkuscoffeeshop%3Aquarkuscoffeeshop-testutils
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/quarkuscoffeeshop/quarkuscoffeeshop-testutils/
+- Maven 坐标：`io.quarkuscoffeeshop:quarkuscoffeeshop-testutils`

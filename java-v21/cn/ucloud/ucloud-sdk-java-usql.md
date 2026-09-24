@@ -1,0 +1,22 @@
+# ucloud-sdk-java-usql
+
+> 标签: Java, Java 11+
+
+## 简介
+
+ucloud-sdk-java-usql - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/cn.ucloud%3Aucloud-sdk-java-usql
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/cn/ucloud/ucloud-sdk-java-usql/
+- Maven 坐标：`cn.ucloud:ucloud-sdk-java-usql`

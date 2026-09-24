@@ -1,0 +1,22 @@
+# yang-model-export
+
+> 标签: Java, Java 17+
+
+## 简介
+
+yang-model-export - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.opendaylight.yangtools%3Ayang-model-export
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/opendaylight/yangtools/yang-model-export/
+- Maven 坐标：`org.opendaylight.yangtools:yang-model-export`

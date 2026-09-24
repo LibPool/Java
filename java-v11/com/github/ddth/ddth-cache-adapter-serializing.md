@@ -1,0 +1,22 @@
+# ddth-cache-adapter-serializing
+
+> 标签: Java, Java 11+
+
+## 简介
+
+ddth-cache-adapter-serializing - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.ddth%3Addth-cache-adapter-serializing
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/ddth/ddth-cache-adapter-serializing/
+- Maven 坐标：`com.github.ddth:ddth-cache-adapter-serializing`

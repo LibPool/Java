@@ -1,0 +1,22 @@
+# windup-config-parent
+
+> 标签: Java, Java 17+
+
+## 简介
+
+windup-config-parent - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.jboss.windup.config%3Awindup-config-parent
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/jboss/windup/config/windup-config-parent/
+- Maven 坐标：`org.jboss.windup.config:windup-config-parent`

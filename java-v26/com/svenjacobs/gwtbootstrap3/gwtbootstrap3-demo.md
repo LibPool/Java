@@ -1,0 +1,22 @@
+# gwtbootstrap3-demo
+
+> 标签: Java, Java 8+
+
+## 简介
+
+gwtbootstrap3-demo - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.svenjacobs.gwtbootstrap3%3Agwtbootstrap3-demo
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/svenjacobs/gwtbootstrap3/gwtbootstrap3-demo/
+- Maven 坐标：`com.svenjacobs.gwtbootstrap3:gwtbootstrap3-demo`

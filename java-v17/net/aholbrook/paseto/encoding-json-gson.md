@@ -1,0 +1,22 @@
+# encoding-json-gson
+
+> 标签: Java, Java 11+
+
+## 简介
+
+encoding-json-gson - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/net.aholbrook.paseto%3Aencoding-json-gson
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/net/aholbrook/paseto/encoding-json-gson/
+- Maven 坐标：`net.aholbrook.paseto:encoding-json-gson`

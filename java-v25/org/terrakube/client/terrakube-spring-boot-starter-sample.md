@@ -1,0 +1,22 @@
+# terrakube-spring-boot-starter-sample
+
+> 标签: Java, Java 17+
+
+## 简介
+
+terrakube-spring-boot-starter-sample - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.terrakube.client%3Aterrakube-spring-boot-starter-sample
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/terrakube/client/terrakube-spring-boot-starter-sample/
+- Maven 坐标：`org.terrakube.client:terrakube-spring-boot-starter-sample`

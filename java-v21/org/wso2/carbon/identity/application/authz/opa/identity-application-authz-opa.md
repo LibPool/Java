@@ -1,0 +1,22 @@
+# identity-application-authz-opa
+
+> 标签: Java, Java 17+
+
+## 简介
+
+identity-application-authz-opa - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.wso2.carbon.identity.application.authz.opa%3Aidentity-application-authz-opa
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/wso2/carbon/identity/application/authz/opa/identity-application-authz-opa/
+- Maven 坐标：`org.wso2.carbon.identity.application.authz.opa:identity-application-authz-opa`

@@ -1,0 +1,22 @@
+# petals-cdk-clientserver-api
+
+> 标签: Java, Java 17+
+
+## 简介
+
+petals-cdk-clientserver-api - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.ow2.petals%3Apetals-cdk-clientserver-api
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/ow2/petals/petals-cdk-clientserver-api/
+- Maven 坐标：`org.ow2.petals:petals-cdk-clientserver-api`

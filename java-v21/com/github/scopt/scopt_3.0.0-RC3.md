@@ -1,0 +1,22 @@
+# scopt_3.0.0-RC3
+
+> 标签: Java, Java 11+
+
+## 简介
+
+scopt_3.0.0-RC3 - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.scopt%3Ascopt_3.0.0-RC3
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/scopt/scopt_3.0.0-RC3/
+- Maven 坐标：`com.github.scopt:scopt_3.0.0-RC3`

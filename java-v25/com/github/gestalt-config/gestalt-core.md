@@ -1,0 +1,22 @@
+# gestalt-core
+
+> 标签: Java, Java 17+
+
+## 简介
+
+gestalt-core - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.gestalt-config%3Agestalt-core
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/gestalt-config/gestalt-core/
+- Maven 坐标：`com.github.gestalt-config:gestalt-core`

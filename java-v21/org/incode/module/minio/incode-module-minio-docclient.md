@@ -1,0 +1,22 @@
+# incode-module-minio-docclient
+
+> 标签: Java, Java 11+
+
+## 简介
+
+incode-module-minio-docclient - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.incode.module.minio%3Aincode-module-minio-docclient
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/incode/module/minio/incode-module-minio-docclient/
+- Maven 坐标：`org.incode.module.minio:incode-module-minio-docclient`

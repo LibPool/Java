@@ -1,0 +1,22 @@
+# liberty-langserver-lemminx
+
+> 标签: Java, Java 17+
+
+## 简介
+
+liberty-langserver-lemminx - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.openliberty.tools%3Aliberty-langserver-lemminx
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/openliberty/tools/liberty-langserver-lemminx/
+- Maven 坐标：`io.openliberty.tools:liberty-langserver-lemminx`

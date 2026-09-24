@@ -1,0 +1,22 @@
+# adcio_placement
+
+> 标签: Java, Java 17+
+
+## 简介
+
+adcio_placement - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.github.corca-ai%3Aadcio_placement
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/github/corca-ai/adcio_placement/
+- Maven 坐标：`io.github.corca-ai:adcio_placement`

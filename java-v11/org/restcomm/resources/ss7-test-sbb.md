@@ -1,0 +1,22 @@
+# ss7-test-sbb
+
+> 标签: Java, Java 8+
+
+## 简介
+
+ss7-test-sbb - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.restcomm.resources%3Ass7-test-sbb
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/restcomm/resources/ss7-test-sbb/
+- Maven 坐标：`org.restcomm.resources:ss7-test-sbb`

@@ -1,0 +1,22 @@
+# m2t-parent
+
+> 标签: Java, Java 11+
+
+## 简介
+
+m2t-parent - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.gv2011.m2t%3Am2t-parent
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/gv2011/m2t/m2t-parent/
+- Maven 坐标：`com.github.gv2011.m2t:m2t-parent`

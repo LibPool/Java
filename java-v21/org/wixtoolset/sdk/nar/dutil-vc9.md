@@ -1,0 +1,22 @@
+# dutil-vc9
+
+> 标签: Java, Java 8+
+
+## 简介
+
+dutil-vc9 - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.wixtoolset.sdk.nar%3Adutil-vc9
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/wixtoolset/sdk/nar/dutil-vc9/
+- Maven 坐标：`org.wixtoolset.sdk.nar:dutil-vc9`

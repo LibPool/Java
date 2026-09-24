@@ -1,0 +1,22 @@
+# eventuate-plugins-gradle-versions
+
+> 标签: Java, Java 17+
+
+## 简介
+
+eventuate-plugins-gradle-versions - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.eventuate.plugins.gradle%3Aeventuate-plugins-gradle-versions
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/eventuate/plugins/gradle/eventuate-plugins-gradle-versions/
+- Maven 坐标：`io.eventuate.plugins.gradle:eventuate-plugins-gradle-versions`

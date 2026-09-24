@@ -1,0 +1,22 @@
+# lit-hl7java
+
+> 标签: Java, Java 11+
+
+## 简介
+
+lit-hl7java - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.babylonhealth%3Alit-hl7java
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/babylonhealth/lit-hl7java/
+- Maven 坐标：`com.babylonhealth:lit-hl7java`

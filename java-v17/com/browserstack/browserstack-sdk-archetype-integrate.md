@@ -1,0 +1,22 @@
+# browserstack-sdk-archetype-integrate
+
+> 标签: Java, Java 17+
+
+## 简介
+
+browserstack-sdk-archetype-integrate - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.browserstack%3Abrowserstack-sdk-archetype-integrate
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/browserstack/browserstack-sdk-archetype-integrate/
+- Maven 坐标：`com.browserstack:browserstack-sdk-archetype-integrate`

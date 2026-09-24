@@ -1,0 +1,22 @@
+# appnexus-googleplay-mediation
+
+> 标签: Java, Java 17+
+
+## 简介
+
+appnexus-googleplay-mediation - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.appnexus.opensdk.mediatedviews%3Aappnexus-googleplay-mediation
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/appnexus/opensdk/mediatedviews/appnexus-googleplay-mediation/
+- Maven 坐标：`com.appnexus.opensdk.mediatedviews:appnexus-googleplay-mediation`

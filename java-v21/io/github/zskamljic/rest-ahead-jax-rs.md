@@ -1,0 +1,22 @@
+# rest-ahead-jax-rs
+
+> 标签: Java, Java 17+
+
+## 简介
+
+rest-ahead-jax-rs - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.github.zskamljic%3Arest-ahead-jax-rs
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/github/zskamljic/rest-ahead-jax-rs/
+- Maven 坐标：`io.github.zskamljic:rest-ahead-jax-rs`

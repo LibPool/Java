@@ -1,0 +1,22 @@
+# school-app-jsf
+
+> 标签: Java, Java 11+
+
+## 简介
+
+school-app-jsf - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/it.vige%3Aschool-app-jsf
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/it/vige/school-app-jsf/
+- Maven 坐标：`it.vige:school-app-jsf`

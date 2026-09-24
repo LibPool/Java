@@ -1,0 +1,22 @@
+# ripple-flow-rdf
+
+> 标签: Java, Java 8+
+
+## 简介
+
+ripple-flow-rdf - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/net.fortytwo.ripple%3Aripple-flow-rdf
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/net/fortytwo/ripple/ripple-flow-rdf/
+- Maven 坐标：`net.fortytwo.ripple:ripple-flow-rdf`

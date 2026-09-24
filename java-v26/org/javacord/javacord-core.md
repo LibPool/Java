@@ -1,0 +1,22 @@
+# javacord-core
+
+> 标签: Java, Java 17+
+
+## 简介
+
+javacord-core - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.javacord%3Ajavacord-core
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/javacord/javacord-core/
+- Maven 坐标：`org.javacord:javacord-core`

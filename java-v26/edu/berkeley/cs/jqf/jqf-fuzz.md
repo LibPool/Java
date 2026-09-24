@@ -1,0 +1,22 @@
+# jqf-fuzz
+
+> 标签: Java, Java 17+
+
+## 简介
+
+jqf-fuzz - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/edu.berkeley.cs.jqf%3Ajqf-fuzz
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/edu/berkeley/cs/jqf/jqf-fuzz/
+- Maven 坐标：`edu.berkeley.cs.jqf:jqf-fuzz`

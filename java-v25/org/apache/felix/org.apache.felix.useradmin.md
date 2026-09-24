@@ -1,0 +1,22 @@
+# org.apache.felix.useradmin
+
+> 标签: Java, Java 11+
+
+## 简介
+
+org.apache.felix.useradmin - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.apache.felix%3Aorg.apache.felix.useradmin
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/apache/felix/org.apache.felix.useradmin/
+- Maven 坐标：`org.apache.felix:org.apache.felix.useradmin`

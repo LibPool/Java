@@ -1,0 +1,22 @@
+# dialect-sdk-aliyun
+
+> 标签: Java, Java 17+
+
+## 简介
+
+dialect-sdk-aliyun - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/cn.herodotus.oss%3Adialect-sdk-aliyun
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/cn/herodotus/oss/dialect-sdk-aliyun/
+- Maven 坐标：`cn.herodotus.oss:dialect-sdk-aliyun`

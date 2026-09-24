@@ -1,0 +1,22 @@
+# kite-hbase-deps-parent
+
+> 标签: Java, Java 8+
+
+## 简介
+
+kite-hbase-deps-parent - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.kitesdk%3Akite-hbase-deps-parent
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/kitesdk/kite-hbase-deps-parent/
+- Maven 坐标：`org.kitesdk:kite-hbase-deps-parent`

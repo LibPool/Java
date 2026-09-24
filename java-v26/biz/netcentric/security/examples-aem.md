@@ -1,0 +1,22 @@
+# examples-aem
+
+> 标签: Java, Java 17+
+
+## 简介
+
+examples-aem - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/biz.netcentric.security%3Aexamples-aem
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/biz/netcentric/security/examples-aem/
+- Maven 坐标：`biz.netcentric.security:examples-aem`

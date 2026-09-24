@@ -1,0 +1,22 @@
+# little-endian-data-stream
+
+> 标签: Java, Java 11+
+
+## 简介
+
+little-endian-data-stream - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/dev.rikka.rikkax.io%3Alittle-endian-data-stream
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/dev/rikka/rikkax/io/little-endian-data-stream/
+- Maven 坐标：`dev.rikka.rikkax.io:little-endian-data-stream`

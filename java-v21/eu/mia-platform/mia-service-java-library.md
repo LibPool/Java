@@ -1,0 +1,22 @@
+# mia-service-java-library
+
+> 标签: Java, Java 17+
+
+## 简介
+
+mia-service-java-library - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/eu.mia-platform%3Amia-service-java-library
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/eu/mia-platform/mia-service-java-library/
+- Maven 坐标：`eu.mia-platform:mia-service-java-library`

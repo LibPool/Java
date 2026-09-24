@@ -1,0 +1,22 @@
+# gradle-pride-plugin
+
+> 标签: Java, Java 8+
+
+## 简介
+
+gradle-pride-plugin - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.prezi.gradle.pride%3Agradle-pride-plugin
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/prezi/gradle/pride/gradle-pride-plugin/
+- Maven 坐标：`com.prezi.gradle.pride:gradle-pride-plugin`

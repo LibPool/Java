@@ -1,0 +1,22 @@
+# mybatis-generator-plugins
+
+> 标签: Java, Java 11+
+
+## 简介
+
+mybatis-generator-plugins - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.bjiaolong%3Amybatis-generator-plugins
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/bjiaolong/mybatis-generator-plugins/
+- Maven 坐标：`com.bjiaolong:mybatis-generator-plugins`

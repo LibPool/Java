@@ -1,0 +1,22 @@
+# logging-spring-boot-starter-logback-filesystem
+
+> 标签: Java, Java 17+
+
+## 简介
+
+logging-spring-boot-starter-logback-filesystem - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/me.insidezhou.southernquiet%3Alogging-spring-boot-starter-logback-filesystem
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/me/insidezhou/southernquiet/logging-spring-boot-starter-logback-filesystem/
+- Maven 坐标：`me.insidezhou.southernquiet:logging-spring-boot-starter-logback-filesystem`

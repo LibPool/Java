@@ -1,0 +1,22 @@
+# aaa4j-radius
+
+> 标签: Java, Java 17+
+
+## 简介
+
+aaa4j-radius - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.aaa4j.radius%3Aaaa4j-radius
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/aaa4j/radius/aaa4j-radius/
+- Maven 坐标：`org.aaa4j.radius:aaa4j-radius`

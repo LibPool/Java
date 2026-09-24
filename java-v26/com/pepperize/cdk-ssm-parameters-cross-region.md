@@ -1,0 +1,22 @@
+# cdk-ssm-parameters-cross-region
+
+> 标签: Java, Java 17+
+
+## 简介
+
+cdk-ssm-parameters-cross-region - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.pepperize%3Acdk-ssm-parameters-cross-region
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/pepperize/cdk-ssm-parameters-cross-region/
+- Maven 坐标：`com.pepperize:cdk-ssm-parameters-cross-region`

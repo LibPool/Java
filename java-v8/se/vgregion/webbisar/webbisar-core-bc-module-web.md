@@ -1,0 +1,22 @@
+# webbisar-core-bc-module-web
+
+> 标签: Java, Java 8+
+
+## 简介
+
+webbisar-core-bc-module-web - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/se.vgregion.webbisar%3Awebbisar-core-bc-module-web
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/se/vgregion/webbisar/webbisar-core-bc-module-web/
+- Maven 坐标：`se.vgregion.webbisar:webbisar-core-bc-module-web`

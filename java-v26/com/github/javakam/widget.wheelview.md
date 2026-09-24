@@ -1,0 +1,22 @@
+# widget.wheelview
+
+> 标签: Java, Java 17+
+
+## 简介
+
+widget.wheelview - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.javakam%3Awidget.wheelview
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/javakam/widget.wheelview/
+- Maven 坐标：`com.github.javakam:widget.wheelview`

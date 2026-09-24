@@ -1,0 +1,22 @@
+# high-scale-lib-parent
+
+> 标签: Java, Java 8+
+
+## 简介
+
+high-scale-lib-parent - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.stephenc.high-scale-lib%3Ahigh-scale-lib-parent
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/stephenc/high-scale-lib/high-scale-lib-parent/
+- Maven 坐标：`com.github.stephenc.high-scale-lib:high-scale-lib-parent`

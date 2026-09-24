@@ -1,0 +1,22 @@
+# elki-core-dbids-int
+
+> 标签: Java, Java 17+
+
+## 简介
+
+elki-core-dbids-int - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.github.elki-project%3Aelki-core-dbids-int
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/github/elki-project/elki-core-dbids-int/
+- Maven 坐标：`io.github.elki-project:elki-core-dbids-int`

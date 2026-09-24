@@ -1,0 +1,22 @@
+# sbt-dotenv
+
+> 标签: Java, Java 17+
+
+## 简介
+
+sbt-dotenv - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/nl.gn0s1s%3Asbt-dotenv
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/nl/gn0s1s/sbt-dotenv/
+- Maven 坐标：`nl.gn0s1s:sbt-dotenv`

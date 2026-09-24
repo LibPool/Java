@@ -1,0 +1,22 @@
+# kurento-room
+
+> 标签: Java, Java 8+
+
+## 简介
+
+kurento-room - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.kurento%3Akurento-room
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/kurento/kurento-room/
+- Maven 坐标：`org.kurento:kurento-room`

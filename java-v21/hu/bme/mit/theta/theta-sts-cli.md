@@ -1,0 +1,22 @@
+# theta-sts-cli
+
+> 标签: Java, Java 17+
+
+## 简介
+
+theta-sts-cli - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/hu.bme.mit.theta%3Atheta-sts-cli
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/hu/bme/mit/theta/theta-sts-cli/
+- Maven 坐标：`hu.bme.mit.theta:theta-sts-cli`

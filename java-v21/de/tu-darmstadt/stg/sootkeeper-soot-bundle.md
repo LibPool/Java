@@ -1,0 +1,22 @@
+# sootkeeper-soot-bundle
+
+> 标签: Java, Java 8+
+
+## 简介
+
+sootkeeper-soot-bundle - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/de.tu-darmstadt.stg%3Asootkeeper-soot-bundle
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/de/tu-darmstadt/stg/sootkeeper-soot-bundle/
+- Maven 坐标：`de.tu-darmstadt.stg:sootkeeper-soot-bundle`

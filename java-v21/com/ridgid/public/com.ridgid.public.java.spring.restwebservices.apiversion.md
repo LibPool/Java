@@ -1,0 +1,22 @@
+# com.ridgid.public.java.spring.restwebservices.apiversion
+
+> 标签: Java, Java 11+
+
+## 简介
+
+com.ridgid.public.java.spring.restwebservices.apiversion - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.ridgid.public%3Acom.ridgid.public.java.spring.restwebservices.apiversion
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/ridgid/public/com.ridgid.public.java.spring.restwebservices.apiversion/
+- Maven 坐标：`com.ridgid.public:com.ridgid.public.java.spring.restwebservices.apiversion`

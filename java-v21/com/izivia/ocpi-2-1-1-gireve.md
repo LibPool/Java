@@ -1,0 +1,22 @@
+# ocpi-2-1-1-gireve
+
+> 标签: Java, Java 17+
+
+## 简介
+
+ocpi-2-1-1-gireve - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.izivia%3Aocpi-2-1-1-gireve
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/izivia/ocpi-2-1-1-gireve/
+- Maven 坐标：`com.izivia:ocpi-2-1-1-gireve`

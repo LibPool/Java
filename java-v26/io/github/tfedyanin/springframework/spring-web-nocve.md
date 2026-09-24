@@ -1,0 +1,22 @@
+# spring-web-nocve
+
+> 标签: Java, Java 17+
+
+## 简介
+
+spring-web-nocve - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.github.tfedyanin.springframework%3Aspring-web-nocve
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/github/tfedyanin/springframework/spring-web-nocve/
+- Maven 坐标：`io.github.tfedyanin.springframework:spring-web-nocve`

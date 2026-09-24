@@ -1,0 +1,22 @@
+# rec-admin-biz
+
+> 标签: Java, Java 17+
+
+## 简介
+
+rec-admin-biz - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/cn.icanci.loopstack.rec%3Arec-admin-biz
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/cn/icanci/loopstack/rec/rec-admin-biz/
+- Maven 坐标：`cn.icanci.loopstack.rec:rec-admin-biz`

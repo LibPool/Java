@@ -1,0 +1,22 @@
+# spring-boot-request-copy
+
+> 标签: Java, Java 11+
+
+## 简介
+
+spring-boot-request-copy - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.github.meazza%3Aspring-boot-request-copy
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/github/meazza/spring-boot-request-copy/
+- Maven 坐标：`com.github.meazza:spring-boot-request-copy`

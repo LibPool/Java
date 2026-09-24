@@ -1,0 +1,22 @@
+# rasa-botmill-plugin
+
+> 标签: Java, Java 8+
+
+## 简介
+
+rasa-botmill-plugin - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/co.aurasphere.botmill%3Arasa-botmill-plugin
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/co/aurasphere/botmill/rasa-botmill-plugin/
+- Maven 坐标：`co.aurasphere.botmill:rasa-botmill-plugin`

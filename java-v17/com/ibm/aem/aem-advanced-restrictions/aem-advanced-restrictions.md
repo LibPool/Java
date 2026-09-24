@@ -1,0 +1,22 @@
+# aem-advanced-restrictions
+
+> 标签: Java, Java 17+
+
+## 简介
+
+aem-advanced-restrictions - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.ibm.aem.aem-advanced-restrictions%3Aaem-advanced-restrictions
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/ibm/aem/aem-advanced-restrictions/aem-advanced-restrictions/
+- Maven 坐标：`com.ibm.aem.aem-advanced-restrictions:aem-advanced-restrictions`

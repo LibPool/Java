@@ -1,0 +1,22 @@
+# jdbc-hive-1.0.x-plugin
+
+> 标签: Java, Java 17+
+
+## 简介
+
+jdbc-hive-1.0.x-plugin - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.mydataharbor%3Ajdbc-hive-1.0.x-plugin
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/mydataharbor/jdbc-hive-1.0.x-plugin/
+- Maven 坐标：`com.mydataharbor:jdbc-hive-1.0.x-plugin`

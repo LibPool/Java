@@ -1,0 +1,22 @@
+# java-tooling-template-archetype
+
+> 标签: Java, Java 11+
+
+## 简介
+
+java-tooling-template-archetype - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/br.com.miguelfontes%3Ajava-tooling-template-archetype
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/br/com/miguelfontes/java-tooling-template-archetype/
+- Maven 坐标：`br.com.miguelfontes:java-tooling-template-archetype`

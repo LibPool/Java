@@ -1,0 +1,22 @@
+# gravitee-reporter-elasticsearch-2x
+
+> 标签: Java, Java 8+
+
+## 简介
+
+gravitee-reporter-elasticsearch-2x - Java library from Maven Central
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/io.gravitee.reporter%3Agravitee-reporter-elasticsearch-2x
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/io/gravitee/reporter/gravitee-reporter-elasticsearch-2x/
+- Maven 坐标：`io.gravitee.reporter:gravitee-reporter-elasticsearch-2x`

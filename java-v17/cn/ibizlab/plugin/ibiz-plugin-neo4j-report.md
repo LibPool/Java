@@ -1,0 +1,22 @@
+# ibiz-plugin-neo4j-report
+
+> 标签: Java, Java 17+
+
+## 简介
+
+ibiz-plugin-neo4j-report - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/cn.ibizlab.plugin%3Aibiz-plugin-neo4j-report
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/cn/ibizlab/plugin/ibiz-plugin-neo4j-report/
+- Maven 坐标：`cn.ibizlab.plugin:ibiz-plugin-neo4j-report`

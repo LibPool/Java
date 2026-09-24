@@ -1,0 +1,22 @@
+# p3c-pmd
+
+> 标签: Java, Java 11+
+
+## 简介
+
+p3c-pmd - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.alibaba.p3c%3Ap3c-pmd
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/alibaba/p3c/p3c-pmd/
+- Maven 坐标：`com.alibaba.p3c:p3c-pmd`

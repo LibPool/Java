@@ -1,0 +1,22 @@
+# saatsch.framework.jmmo.core.timing
+
+> 标签: Java, Java 11+
+
+## 简介
+
+saatsch.framework.jmmo.core.timing - Java library from Maven Central
+
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.saatsch.framework%3Asaatsch.framework.jmmo.core.timing
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/saatsch/framework/saatsch.framework.jmmo.core.timing/
+- Maven 坐标：`org.saatsch.framework:saatsch.framework.jmmo.core.timing`

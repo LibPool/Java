@@ -1,0 +1,22 @@
+# online
+
+> 标签: Java, Java 17+
+
+## 简介
+
+online - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.ti-net.oslib%3Aonline
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/ti-net/oslib/online/
+- Maven 坐标：`com.ti-net.oslib:online`

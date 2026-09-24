@@ -1,0 +1,22 @@
+# spring-ai-autoconfigure-model-moonshot
+
+> 标签: Java, Java 17+
+
+## 简介
+
+spring-ai-autoconfigure-model-moonshot - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/org.springframework.ai%3Aspring-ai-autoconfigure-model-moonshot
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/springframework/ai/spring-ai-autoconfigure-model-moonshot/
+- Maven 坐标：`org.springframework.ai:spring-ai-autoconfigure-model-moonshot`

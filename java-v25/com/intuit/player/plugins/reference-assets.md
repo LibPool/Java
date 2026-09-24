@@ -1,0 +1,22 @@
+# reference-assets
+
+> 标签: Java, Java 17+
+
+## 简介
+
+reference-assets - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.intuit.player.plugins%3Areference-assets
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/intuit/player/plugins/reference-assets/
+- Maven 坐标：`com.intuit.player.plugins:reference-assets`

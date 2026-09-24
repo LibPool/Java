@@ -1,0 +1,22 @@
+# nb-querier
+
+> 标签: Java, Java 17+
+
+## 简介
+
+nb-querier - Java library from Maven Central
+
+最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/cn.hperfect%3Anb-querier
+
+## 历史版本号
+
+- 未知
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/cn/hperfect/nb-querier/
+- Maven 坐标：`cn.hperfect:nb-querier`
