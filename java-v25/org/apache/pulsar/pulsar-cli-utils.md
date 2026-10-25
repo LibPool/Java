@@ -4,7 +4,7 @@
 
 ## 简介
 
-pulsar-cli-utils - Java library from Maven Central
+Apache Pulsar :: pulsar-cli-utils
 
 最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
 
@@ -14,9 +14,20 @@ pulsar-cli-utils - Java library from Maven Central
 
 ## 历史版本号
 
-- 未知
+- 4.1.3
+- 4.2.0
+- 4.2.1
+- 4.2.2
+- 4.2.3
+- 4.2.4
+- 4.2.5
+- 5.0.0-M1
+- 5.0.0-M2
+- 5.0.0
+- 共 44 个版本，完整清单见 Maven Central。
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/org/apache/pulsar/pulsar-cli-utils/
 - Maven 坐标：`org.apache.pulsar:pulsar-cli-utils`
+- pom.xml 引用：`<dependency><groupId>org.apache.pulsar</groupId><artifactId>pulsar-cli-utils</artifactId><version>5.0.0</version></dependency>`

@@ -1,22 +1,34 @@
 # dynamodb-mapper-schema-generator-plugin
 
-> 标签: Java, Java 17+
+> 标签: github, Java 17+
 
 ## 简介
 
-dynamodb-mapper-schema-generator-plugin - Java library from Maven Central
+Plugin used to generate DynamoDbMapper schemas from user classes
 
 最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
 
 ## 官网
 
-- https://central.sonatype.com/artifact/com.sonatype.central.testing.amazon%3Adynamodb-mapper-schema-generator-plugin
+- https://github.com/aws/aws-sdk-kotlin
 
 ## 历史版本号
 
-- 未知
+- 1.5.77-beta
+- 1.5.78-beta
+- 1.5.79-beta
+- 1.6.65-beta
+- 1.6.66-beta
+- 1.6.101-beta
+- 1.6.102-beta
+- 1.6.103-beta
+- 1.6.106-beta
+- 1.6.113-beta
+- 共 27 个版本，完整清单见 Maven Central。
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/com/sonatype/central/testing/amazon/dynamodb-mapper-schema-generator-plugin/
 - Maven 坐标：`com.sonatype.central.testing.amazon:dynamodb-mapper-schema-generator-plugin`
+- pom.xml 引用：`<dependency><groupId>com.sonatype.central.testing.amazon</groupId><artifactId>dynamodb-mapper-schema-generator-plugin</artifactId><version>1.6.113-beta</version></dependency>`
+- 源码仓库：https://github.com/aws/aws-sdk-kotlin

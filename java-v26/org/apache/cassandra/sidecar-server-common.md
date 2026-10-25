@@ -1,22 +1,26 @@
 # sidecar-server-common
 
-> 标签: Java, Java 17+
+> 标签: Java, Java 11+
 
 ## 简介
 
-sidecar-server-common - Java library from Maven Central
+The Apache License, Version 2.0
 
-最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
 
 ## 官网
 
-- https://central.sonatype.com/artifact/org.apache.cassandra%3Asidecar-server-common
+- https://cassandra.apache.org/
 
 ## 历史版本号
 
-- 未知
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/org/apache/cassandra/sidecar-server-common/
 - Maven 坐标：`org.apache.cassandra:sidecar-server-common`
+- pom.xml 引用：`<dependency><groupId>org.apache.cassandra</groupId><artifactId>sidecar-server-common</artifactId><version>0.4.0</version></dependency>`

@@ -1,22 +1,32 @@
 # transport-grpc-spi
 
-> 标签: Java, Java 17+
+> 标签: Java, Java 21+
 
 ## 简介
 
-transport-grpc-spi - Java library from Maven Central
+OpenSearch subproject :modules:transport-grpc:spi
 
-最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+最低 Java 版本：Java 21；已收录于 java-v21, java-v25, java-v26。
 
 ## 官网
 
-- https://central.sonatype.com/artifact/org.opensearch.plugin%3Atransport-grpc-spi
+- http://www.apache.org/licenses/LICENSE-2.0.txt
 
 ## 历史版本号
 
-- 未知
+- 3.3.0
+- 3.3.1
+- 3.3.2
+- 3.4.0
+- 3.5.0
+- 3.6.0
+- 3.7.0
+- 3.8.0
+- 3.9.0
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/org/opensearch/plugin/transport-grpc-spi/
 - Maven 坐标：`org.opensearch.plugin:transport-grpc-spi`
+- pom.xml 引用：`<dependency><groupId>org.opensearch.plugin</groupId><artifactId>transport-grpc-spi</artifactId><version>3.9.0</version></dependency>`
+- 源码仓库：https://github.com/opensearch-project/OpenSearch.git

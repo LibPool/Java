@@ -1,12 +1,12 @@
 # org.wso2.carbon.apimgt.federated.gateway
 
-> 标签: Java, Java 17+
+> 标签: Java, Java 11+
 
 ## 简介
 
-org.wso2.carbon.apimgt.federated.gateway - Java library from Maven Central
+WSO2 Carbon - API Management Federated Gateway
 
-最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
+最低 Java 版本：Java 11；已收录于 java-v11, java-v17, java-v21, java-v25, java-v26。
 
 ## 官网
 
@@ -14,9 +14,20 @@ org.wso2.carbon.apimgt.federated.gateway - Java library from Maven Central
 
 ## 历史版本号
 
-- 未知
+- 9.34.0
+- 9.34.1
+- 9.34.2
+- 9.34.3
+- 9.34.4
+- 9.34.5
+- 9.34.6
+- 9.34.7
+- 9.34.8
+- 9.34.9
+- 共 227 个版本，完整清单见 Maven Central。
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/org/wso2/carbon/apimgt/org.wso2.carbon.apimgt.federated.gateway/
 - Maven 坐标：`org.wso2.carbon.apimgt:org.wso2.carbon.apimgt.federated.gateway`
+- pom.xml 引用：`<dependency><groupId>org.wso2.carbon.apimgt</groupId><artifactId>org.wso2.carbon.apimgt.federated.gateway</artifactId><version>9.34.9</version></dependency>`

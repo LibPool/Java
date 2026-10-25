@@ -1,22 +1,33 @@
 # RfsCommon
 
-> 标签: Java, Java 17+
+> 标签: github, Java 17+
 
 ## 简介
 
-RfsCommon - Java library from Maven Central
+Shared IR types and interfaces for OpenSearch snapshot reading and migration
 
 最低 Java 版本：Java 17；已收录于 java-v17, java-v21, java-v25, java-v26。
 
 ## 官网
 
-- https://central.sonatype.com/artifact/org.opensearch.migrations.snapshots%3ARfsCommon
+- http://github.com/opensearch-project/opensearch-migrations
 
 ## 历史版本号
 
-- 未知
+- 0.3.2.0
+- 0.3.2.1
+- 0.3.3.0
+- 0.3.3.1
+- 0.3.3.3
+- 0.3.3.4
+- 0.3.3.7
+- 0.3.3.8
+- 0.3.3.9
+- 0.3.4.0
+- 共 15 个版本，完整清单见 Maven Central。
 
 ## 获取地址
 
 - Maven 仓库地址：https://repo.maven.apache.org/maven2/org/opensearch/migrations/snapshots/RfsCommon/
 - Maven 坐标：`org.opensearch.migrations.snapshots:RfsCommon`
+- pom.xml 引用：`<dependency><groupId>org.opensearch.migrations.snapshots</groupId><artifactId>RfsCommon</artifactId><version>0.3.4.0</version></dependency>`
