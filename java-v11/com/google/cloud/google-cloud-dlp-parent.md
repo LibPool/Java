@@ -1,0 +1,33 @@
+# google-cloud-dlp-parent
+
+> 标签: Java, Java 8+
+
+## 简介
+
+Java idiomatic client for Google Cloud Platform services.
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.google.cloud%3Agoogle-cloud-dlp-parent
+
+## 历史版本号
+
+- 3.94.0
+- 3.95.0
+- 3.96.0
+- 3.97.0
+- 3.98.0
+- 3.99.0
+- 3.100.0
+- 3.101.0
+- 3.102.0
+- 3.103.0
+- 共 165 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-dlp-parent/
+- Maven 坐标：`com.google.cloud:google-cloud-dlp-parent`
+- pom.xml 引用：`<dependency><groupId>com.google.cloud</groupId><artifactId>google-cloud-dlp-parent</artifactId><version>3.103.0</version></dependency>`

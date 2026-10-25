@@ -1,0 +1,33 @@
+# google-analytics-admin-bom
+
+> 标签: Java, Java 8+
+
+## 简介
+
+BOM for Analytics Admin
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/com.google.analytics%3Agoogle-analytics-admin-bom
+
+## 历史版本号
+
+- 0.100.0
+- 0.101.0
+- 0.102.0
+- 0.103.0
+- 0.104.0
+- 0.105.0
+- 0.106.0
+- 0.107.0
+- 0.108.0
+- 0.109.0
+- 共 128 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/com/google/analytics/google-analytics-admin-bom/
+- Maven 坐标：`com.google.analytics:google-analytics-admin-bom`
+- pom.xml 引用：`<dependency><groupId>com.google.analytics</groupId><artifactId>google-analytics-admin-bom</artifactId><version>0.109.0</version></dependency>`

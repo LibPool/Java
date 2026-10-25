@@ -1,0 +1,34 @@
+# identity-inbound-auth-oauth
+
+> 标签: Java, Java 8+
+
+## 简介
+
+WSO2 Carbon OAuth module
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- http://wso2.org
+
+## 历史版本号
+
+- 7.5.87
+- 7.5.88
+- 7.5.89
+- 7.5.90
+- 7.5.91
+- 7.5.92
+- 7.5.93
+- 7.5.94
+- 7.5.95
+- 7.5.96
+- 共 1422 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/org/wso2/carbon/identity/inbound/auth/oauth2/identity-inbound-auth-oauth/
+- Maven 坐标：`org.wso2.carbon.identity.inbound.auth.oauth2:identity-inbound-auth-oauth`
+- pom.xml 引用：`<dependency><groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId><artifactId>identity-inbound-auth-oauth</artifactId><version>7.5.96</version></dependency>`
+- 源码仓库：https://github.com/wso2-extensions/identity-inbound-auth-oauth.git

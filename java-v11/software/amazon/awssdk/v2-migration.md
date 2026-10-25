@@ -1,0 +1,33 @@
+# v2-migration
+
+> 标签: Java, Java 8+
+
+## 简介
+
+Contains OpenRewrite recipes to help users migrate from the AWS SDK for Java v1 to the AWS SDK for Java v2
+
+最低 Java 版本：Java 8；已收录于 java-v8, java-v11, java-v17, java-v21, java-v25, java-v26。
+
+## 官网
+
+- https://central.sonatype.com/artifact/software.amazon.awssdk%3Av2-migration
+
+## 历史版本号
+
+- 2.55.12
+- 2.55.13
+- 2.55.14
+- 2.55.15
+- 2.55.16
+- 2.56.0
+- 2.57.0
+- 2.57.1
+- 2.57.2
+- 2.57.3
+- 共 536 个版本，完整清单见 Maven Central。
+
+## 获取地址
+
+- Maven 仓库地址：https://repo.maven.apache.org/maven2/software/amazon/awssdk/v2-migration/
+- Maven 坐标：`software.amazon.awssdk:v2-migration`
+- pom.xml 引用：`<dependency><groupId>software.amazon.awssdk</groupId><artifactId>v2-migration</artifactId><version>2.57.3</version></dependency>`
